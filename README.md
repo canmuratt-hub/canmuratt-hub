@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
-[![MasterHead](https://www.udemy.com/course/programming-bootcamp-with-web-and-application-development/?srsltid=AfmBOoqWsICUeTYkbfMd_ECJoxexhZp4cCeOeHGvvP0jRb-eUiT-BcKW)
-<h3 align="center">A developer focused on continuous learning and eager for new technologies.</h3>
+
+<h3 align="center">🙋‍♀️ Who I Am</h3>
+<p align="center">I am a software and application developer, and a Management Information Systems student passionately exploring new technologies. I enjoy Application Development and solving challenging problems.</p>
+
+<h3 align="center">💡 What Are My Interests?</h3>
+<p align="center">
+<ul>
+    <li>Working to improve my skills in C, C++, and JavaScript.</li>
+    <li>Exploring mobile and web development.</li>
+    <li>Learning more about software architecture and its applications in data science.</li>
+</ul>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
