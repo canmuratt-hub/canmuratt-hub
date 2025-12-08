@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
-[![MasterHead](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+[![MasterHead](https://img.icons8.com/color/480/code.png)
 <h3 align="center">A developer focused on continuous learning and eager for new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
