@@ -16,4 +16,4 @@
 
 
 
-![snake gif](https://github.com/muratcankucukkilic/muratcankucukkilic/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/canmuratt-hun/canmuratt-hub/blob/output/github-contribution-grid-snake.gif)
