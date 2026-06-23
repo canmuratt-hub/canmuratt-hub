@@ -1,32 +1,74 @@
 <h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
+<h3 align="center">Application Developer | AI & Cyber Security Enthusiast | MIS Student</h3>
 
-<h3 align="center">🙋‍♀️ Who I Am</h3>
-<p align="center">I am a software and application developer, and a Management Information Systems student passionately exploring new technologies. I enjoy Application Development and solving challenging problems.</p>
-
-<h3 align="center">💡 What Are My Interests?</h3>
 <p align="center">
-<ul>
-    <li>Working to improve my skills in C, C++, and JavaScript.</li>
-    <li>Exploring mobile and web development.</li>
-    <li>Learning more about software architecture and its applications in data science.</li>
-</ul>
+  <!-- Dinamik Daktilo Efekti -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Application+Developer;Management+Information+Systems;AI+%26+Automation+Enthusiast;Cyber+Security+Learner" alt="Typing SVG" />
 </p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muratcanküçükkılıç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratcanküçükkılıç" height="30" width="40" /></a>
+### 👨‍💻 About Me
+
+*   🎓 I'm currently studying **Management Information Systems** at **Hatay Mustafa Kemal University**.
+*   💻 Passionate about **Application Development**, focusing on smart solutions and automation workflows.
+*   🤖 Currently developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Windows Voice Assistant (Jarvis)** model.
+*   🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux, and participating in CTFs.
+*   🎥 I also create content and manage my YouTube channel, **Atarlı Hücreler**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+**Databases, AI & Cyber Security:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canmuratt-hub&show_icons=true&locale=en&layout=compact" alt="muratcankucukkilic" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canmuratt-hub&" alt="canmuratt-hub" /></p>
+### 📊 GitHub Stats
 
+<div align="center">
+  <!-- GitHub Genel İstatistikleri -->
+  <img src="https://github-readme-stats.vercel.app/api?username=canmuratt-hub&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <!-- GitHub Streak (Seri) İstatistikleri -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canmuratt-hub&theme=radical&hide_border=true" width="48%" />
+</div>
 
+<br>
 
-![snake gif](https://github.com/canmuratt-hun/canmuratt-hub/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <!-- Aktivite Grafiğin -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canmuratt-hub&theme=react-dark&hide_border=true" />
+</div>
 
-[![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=canmuratt-hub&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <!-- Yılan Animasyonu (Snake Action'ı çalıştırdıktan sonra burası aktif olur) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/murat-can-k%C3%BC%C3%A7%C3%BCkk%C4%B1l%C4%B1%C3%A7-718694387" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUTUBE_KANAL_LINKINI_BURAYA_YAPISTIR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
