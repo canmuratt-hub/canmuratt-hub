@@ -68,7 +68,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align=https://muratcan-dev.netlify.app/"center">
 <a href="https://www.linkedin.com/in/murat-can-k%C3%BC%C3%A7%C3%BCkk%C4%B1l%C4%B1%C3%A7-718694387" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUTUBE_KANAL_LINKINI_BURAYA_YAPISTIR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
