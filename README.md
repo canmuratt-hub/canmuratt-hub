@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
+<h1 align="center">Hi 👋, I'm Murat Can </h1>
 <h3 align="center">Application Developer | AI & Cyber Security Enthusiast | MIS Student</h3>
 
 <p align="center">
