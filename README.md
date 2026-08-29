@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
+<h1 align="center">Hi 👋, I'm Murat Can </h1>
 
 <div align="center">
   <img src="assets/portrait.svg" width="220" alt="Murat Can Küçükkılıç">
@@ -22,14 +22,6 @@
 * 💻 Passionate about **Application Development**, with a strong focus on smart solutions and automation workflows.
 * 🤖 Developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Voice Assistant model for Windows (Jarvis)**.
 * 🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux and actively participating in CTF challenges.
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=canmuratt-hub&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -58,20 +50,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canmuratt-hub&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canmuratt-hub&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canmuratt-hub&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/snake-dark.svg" alt="GitHub Contribution Grid Snake" />
+  <img src="assets/card-stats-dark.svg" width="90%" alt="GitHub Stats">
 </div>
 
 ---
