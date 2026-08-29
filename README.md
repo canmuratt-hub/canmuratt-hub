@@ -53,6 +53,12 @@
   <img src="assets/card-stats-dark.svg" width="90%" alt="GitHub Stats">
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/snake-dark.svg" alt="GitHub Contribution Grid Snake" />
+</div>
+
 ---
 
 ### 🌐 Connect with Me
