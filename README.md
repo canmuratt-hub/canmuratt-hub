@@ -45,6 +45,17 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="assets/radar-dark.svg" width="100%" alt="Skill Radar">
+</td>
+<td width="50%" align="center">
+  <img src="assets/radar-langs-dark.svg" width="100%" alt="Language Radar">
+</td>
+</tr>
+</table>
+
 ---
 
 ### 📊 GitHub Stats
