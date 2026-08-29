@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/portrait.svg" width="220" alt="Murat Can Küçükkılıç">
+</div>
+
 <h1 align="center">Hi 👋, I'm Murat Can KÜÇÜKKILIÇ</h1>
 <h3 align="center">Application Developer | AI & Cyber Security Enthusiast | MIS Student</h3>
 
@@ -13,10 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=canmuratt-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-*   🎓 Currently studying **Management Information Systems (MIS)** at **Hatay Mustafa Kemal University**.
-*   💻 Passionate about **Application Development**, with a strong focus on smart solutions and automation workflows.
-*   🤖 Developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Voice Assistant model for Windows (Jarvis)**.
-*   🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux and actively participating in CTF challenges.
+* 🎓 Currently studying **Management Information Systems (MIS)** at **Hatay Mustafa Kemal University**.
+* 💻 Passionate about **Application Development**, with a strong focus on smart solutions and automation workflows.
+* 🤖 Developing a **Gemini-powered Telegram Bot (Niko)** and working on a **Voice Assistant model for Windows (Jarvis)**.
+* 🛡️ Deeply interested in **Cyber Security**, exploring tools like Kali Linux and actively participating in CTF challenges.
 
 ---
 
@@ -66,11 +70,7 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/canmuratt-hub/canmuratt-hub/output/snake-dark.svg" alt="GitHub Contribution Grid Snake" />
 </div>
 
 ---
