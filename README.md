@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=canmuratt-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=canmuratt-hub&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 * 🎓 Currently studying **Management Information Systems (MIS)** at **Hatay Mustafa Kemal University**.
